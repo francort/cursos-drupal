@@ -24,6 +24,8 @@ _figura 1: estructura de carpetas_
 _figura2: contenido del archivo drupalchile.info.yml_  
 ![Contenido del .info](imagenes/punto-info-theme-drupalchile.png "Contenido del archivo .info")  
 
+Puede ver el [archivo .info en el repositorio](https://github.com/francort/cursos-drupal/blob/master/theme-drupal-8-basico-1/code/drupalchile/drupalchile.info.yml)
+
 ---
   
 Tan sólo haciendo lo anterior ya podemos seleccionar el theme del listado de 
