@@ -1,0 +1,6 @@
+name: Drupal Chile
+type: theme
+base theme: classy
+description: 'Un theme de ejemplo, para comenzar con Drupal 8.'
+version: VERSION
+core: 8.x
